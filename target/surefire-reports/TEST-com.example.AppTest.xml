@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk-21.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\caoma\AppData\Local\Temp\surefire9453144768141468808\surefirebooter14499463583485124392.jar C:\Users\caoma\AppData\Local\Temp\surefire9453144768141468808 2024-03-07T10-34-13_510-jvmRun1 surefire7913814115782488921tmp surefire_06571286724534803264tmp"/>
+    <property name="sun.java.command" value="C:\Users\caoma\AppData\Local\Temp\surefire10535406591784187238\surefirebooter9415492799341387677.jar C:\Users\caoma\AppData\Local\Temp\surefire10535406591784187238 2024-03-07T10-49-12_973-jvmRun1 surefire7164000686210532969tmp surefire_010223712989310603796tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\CodeJava\docker_redo\target\test-classes;D:\CodeJava\docker_redo\target\classes;C:\Users\caoma\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.1\junit-jupiter-api-5.8.1.jar;C:\Users\caoma\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\caoma\.m2\repository\org\junit\platform\junit-platform-commons\1.8.1\junit-platform-commons-1.8.1.jar;C:\Users\caoma\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\caoma\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.1\junit-jupiter-engine-5.8.1.jar;C:\Users\caoma\.m2\repository\org\junit\platform\junit-platform-engine\1.8.1\junit-platform-engine-1.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\caoma\AppData\Local\Temp\surefire9453144768141468808\surefirebooter14499463583485124392.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\caoma\AppData\Local\Temp\surefire10535406591784187238\surefirebooter9415492799341387677.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.1+12-29"/>
